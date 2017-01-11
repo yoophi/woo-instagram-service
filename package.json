@@ -1,0 +1,24 @@
+{
+  "name": "coffee-angular-controller",
+  "version": "0.0.1",
+  "description": "Angular with CoffeeScript",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-coffee": "^2.3.2",
+    "gulp-util": "^3.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoophi/coffee-angular-controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoophi/coffee-angular-controller/issues"
+  },
+  "homepage": "https://github.com/yoophi/coffee-angular-controller#readme"
+}

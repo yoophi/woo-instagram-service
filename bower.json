@@ -1,0 +1,25 @@
+{
+  "name": "woo-instagram-service",
+  "homepage": "https://github.com/yoophi/woo-instagram-service",
+  "authors": [
+    "Pyunghyuk Yoo <yoophi@gmail.com>"
+  ],
+  "description": "",
+  "main": "dist/instagram.js",
+  "keywords": [
+    "instagram",
+    "angularjs"
+  ],
+  "dependencies": {
+    "angular-local-storage": "^0.5.2",
+    "coffee-angular-controller": "yoophi/coffee-angular-controller#v0.0.1"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
